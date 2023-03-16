@@ -1,0 +1,12 @@
+C:\Users\CSU\source\repos\midtermgui\midtermgui\bin\Debug\midtermgui.exe.config
+C:\Users\CSU\source\repos\midtermgui\midtermgui\bin\Debug\midtermgui.exe
+C:\Users\CSU\source\repos\midtermgui\midtermgui\bin\Debug\midtermgui.pdb
+C:\Users\CSU\source\repos\midtermgui\midtermgui\bin\Debug\midtermgui.xml
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.vbproj.AssemblyReference.cache
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.Form1.resources
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.Resources.resources
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.vbproj.GenerateResource.cache
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.vbproj.CoreCompileInputs.cache
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.exe
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.xml
+C:\Users\CSU\source\repos\midtermgui\midtermgui\obj\Debug\midtermgui.pdb
